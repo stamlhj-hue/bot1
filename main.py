@@ -12,7 +12,7 @@ import os
 SUPPORT_ROLE_ID = 1435973250097348708
 LOG_CHANNEL_ID = 1435972794046349314
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("Token")
 
 # ==============================
 
